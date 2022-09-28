@@ -1,1 +1,2 @@
-"# noogle-tap" 
+# Noogle-tap
+Aplicação construída em Java para acessar sites utilizando classes de IO, descobrir links usando expressões regulares, e navega pelos links descobertos executando threads em paralelo procurando novos links.
